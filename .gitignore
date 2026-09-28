@@ -1,0 +1,7 @@
+# Toolkit de referencia local; el sitio no lo necesita para ejecutarse.
+richely_dev/
+
+# Archivos locales del sistema y herramientas.
+.DS_Store
+Thumbs.db
+node_modules/
